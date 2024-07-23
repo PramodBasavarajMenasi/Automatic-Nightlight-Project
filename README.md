@@ -15,7 +15,8 @@
 ![Screenshot 2024-07-08 100948](https://github.com/PramodBasavarajMenasi/Automatic-Nightlight-Project/assets/172189657/90c162fe-ae54-4382-a711-f0ce4931c276)
 
 ##  Pin configuration for final project components
-![Screenshot 2024-07-08 102758](https://github.com/PramodBasavarajMenasi/Automatic-Nightlight-Project/assets/172189657/ce8178ab-5cd3-42b7-a58e-9a55c80450e1)
+
+![Screenshot 2024-07-08 093926](https://github.com/user-attachments/assets/d31f3159-d7b8-467f-b9a2-fc9a63bc32ee)
 
 ## RESULT
 ![Screenshot 2024-07-08 154423](https://github.com/PramodBasavarajMenasi/Automatic-Nightlight-Project/assets/172189657/ba67503a-edf1-4164-b163-21ae0df21c4f)
